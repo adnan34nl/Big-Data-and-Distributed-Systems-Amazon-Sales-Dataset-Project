@@ -1,58 +1,37 @@
-# Big-Data-and-Distributed-Systems-Amazon-Sales-Dataset-Project
-De analyse van het Amazon Sales Dataset toont duidelijke patronen in  online verkoopgedrag, met inzichten in categorie prestaties, geografische  verdeling en verkooptrends.
-# MODULE 5 - BIG DATA ANALYSIS REPORT
-## Amazon Sales Dataset Analyse
+# 🚀 Big Data and Distributed Systems - Amazon Sales Dataset Project
 
-### 📊 Executive Summary
-De analyse van het Amazon Sales Dataset toont duidelijke patronen in 
-online verkoopgedrag, met inzichten in categorie prestaties, geografische 
-verdeling en verkooptrends.
+## 📊 Project Overview
+Comprehensive analysis of Amazon Sales Dataset using PySpark and Big Data technologies.
 
-### 🔑 Belangrijkste Bevindingen
-
-1. **Top Categorie**: Set categorie domineert met €39M+ verkoop
-2. **Top Regio**: Maharashtra genereert hoogste omzet  
-3. **Order Gedrag**: Gemiddelde orderwaarde €700-800
-4. **Succes Ratio**: 98-99% orders succesvol afgerond
-
-### 🏗️ Technische Implementatie
-
-- **PySpark** voor distributed data processing
-- **Parquet** formaat voor geoptimaliseerde opslag
-- **Spark SQL** voor complexe queries
-- **Matplotlib/Seaborn** voor visualisaties
-
-### 📈 Aanbevelingen
-
-1. Focus marketing op top categorieën (Set, Kurta)
-2. Investeer in regio's met hoog groeipotentieel  
-3. Optimaliseer B2B verkoopstrategie
-4. Implementeer real-time monitoring
-
-### 🎯 Leeruitkomsten
-
-- Big Data concepten (Volume, Velocity, Variety) toegepast
-- Distributed processing met PySpark ervaring
-- Spark SQL en Streaming implementatie
-- Data visualisatie en interpretatie
-
-
-# 🚀 Module 5 - Big Data Practice Project
-
-## 📋 Project Overview
-Analyse van Amazon Sales Dataset met PySpark en Big Data technologieën.
-
-## 🎯 Leerdoelen
-- Big Data concepten (Volume, Velocity, Variety)
-- Hadoop & MapReduce principes  
-- PySpark RDD vs DataFrame
+## 🎯 Learning Objectives
+- Big Data concepts (Volume, Velocity, Variety)
+- Hadoop & MapReduce principles
+- PySpark RDD vs DataFrame comparison
 - Spark SQL & Streaming
 - Distributed Storage (HDFS/S3)
 
-## 🛠️ Technologieën
+## 🛠️ Technologies Used
 - PySpark 3.5.0
 - Python 3.8+
+- Google Colab
 - Matplotlib/Seaborn
-- Google Colab/Jupyter
 
-## 📁 Project Structuur
+## 📁 Project Structure
+Big-Data-and-Distributed-Systems-Amazon-Sales-Dataset-Project/
+├── Module5_BigData_Practice.ipynb
+├── README.md
+└── assets/ (if you add visualizations)
+
+## 🚀 How to Run
+1. Open `Module5_BigData_Practice.ipynb` in Google Colab
+2. Run cells sequentially
+3. Ensure PySpark is installed: `!pip install pyspark`
+
+## 📈 Key Findings
+- **Top Category:** Set (€39M+ revenue)
+- **Top State:** Maharashtra  
+- **Average Order Value:** €700-800
+- **Success Rate:** 98%+
+
+## 👨‍💻 Author
+Adnan - Big Data & Distributed Systems Project
