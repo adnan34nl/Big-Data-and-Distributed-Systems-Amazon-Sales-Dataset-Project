@@ -35,3 +35,24 @@ verdeling en verkooptrends.
 - Distributed processing met PySpark ervaring
 - Spark SQL en Streaming implementatie
 - Data visualisatie en interpretatie
+
+
+# 🚀 Module 5 - Big Data Practice Project
+
+## 📋 Project Overview
+Analyse van Amazon Sales Dataset met PySpark en Big Data technologieën.
+
+## 🎯 Leerdoelen
+- Big Data concepten (Volume, Velocity, Variety)
+- Hadoop & MapReduce principes  
+- PySpark RDD vs DataFrame
+- Spark SQL & Streaming
+- Distributed Storage (HDFS/S3)
+
+## 🛠️ Technologieën
+- PySpark 3.5.0
+- Python 3.8+
+- Matplotlib/Seaborn
+- Google Colab/Jupyter
+
+## 📁 Project Structuur
